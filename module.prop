@@ -4,4 +4,4 @@ version=v1.0
 versionCode=10
 author=Hammerhand
 description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+updateJson=https://github.com/Hammerhand17/KLWPDisabler/blob/master/module.prop
